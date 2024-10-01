@@ -1,0 +1,14 @@
+/* Основные стили для canvas */
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0f0f0f;
+}
+
+canvas {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    background-color: #1a1a1a;
+}
